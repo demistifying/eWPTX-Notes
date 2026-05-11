@@ -12,3 +12,6 @@
 - **[A10:2025 - Mishandling of Exceptional Conditions](https://owasp.org/Top10/2025/A10_2025-Mishandling_of_Exceptional_Conditions/)** is a new category for 2025. This category contains 24 CWEs focusing on improper error handling, logical errors, failing open, and other related scenarios stemming from abnormal conditions that systems may encounter.
 
 ### Risk Calculation
+![[Pasted image 20260511225749.png]]
+
+> [!NOTE] OWASP Cheat Sheet Series
