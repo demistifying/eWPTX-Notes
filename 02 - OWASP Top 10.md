@@ -14,5 +14,6 @@
 ### Risk Calculation
 ![[Pasted image 20260511225749.png]]
 
-> [!NOTE] OWASP Cheat Sheet Series
-> OWASP Web Security Testing Guide (WSTG)
+> [!NOTE] 
+> [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+> [OWASP Web Security Testing Guide (WSTG)](https://github.com/OWASP/www-project-web-security-testing-guide/blob/master/v42/index.md)
