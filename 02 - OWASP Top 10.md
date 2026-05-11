@@ -15,3 +15,4 @@
 ![[Pasted image 20260511225749.png]]
 
 > [!NOTE] OWASP Cheat Sheet Series
+> OWASP Web Security Testing Guide (WSTG)
