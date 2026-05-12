@@ -32,4 +32,4 @@
 - ```bash
   whatweb example.com
   ```
-- 
+- httrack - website copier
