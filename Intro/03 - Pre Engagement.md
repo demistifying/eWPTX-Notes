@@ -48,4 +48,7 @@
 - `site:example.com inurl:admin` 
 - `site:*.ine.com` (subdomain enumeration)
 - `site:*.ine.com intitle:admin`
-- site:*.ine.com filetype:pdf
+- `site:*.ine.com filetype:pdf`
+- `intitle:index of`
+- `cache:example.com` (Alternative: Wayback Machine)
+- `inurl:auth_user_file.`
