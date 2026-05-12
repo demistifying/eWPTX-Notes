@@ -3,4 +3,10 @@
 - Click 'Show only URLs in scope' (Bullseye icon)
 
 ### Website Screenshots with EyeWitness
-- Lorem Ipsum
+
+```bash
+  sudo apt-get install eyewitness
+  
+  eyewitness w
+```
+
