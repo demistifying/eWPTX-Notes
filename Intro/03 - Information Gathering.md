@@ -55,3 +55,6 @@
 - `intitle:passwd.txt`
 - `inurl:wp-config.bak`
 - [Google hacking database](https://www.exploit-db.com/google-hacking-database) - Cheat sheet resource
+
+### HTTrack
+- https://www.httrack.com
