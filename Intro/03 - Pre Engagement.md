@@ -35,4 +35,9 @@
 	  ```
 - httrack - website copier
 
-###
+### Email harvesting
+- Gather names, emails, IPs, subdomains, URLS using theHarvester
+- ```bash
+  theHarvester -d INE -b duckduckgo
+  ```
+  
