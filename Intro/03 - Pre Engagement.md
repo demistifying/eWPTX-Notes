@@ -12,3 +12,17 @@
 
 - Web application fingerprinting
 - Pair with httrack
+
+### Website Recon and Footprinting
+- Information to look for:
+	- IP Address
+	- Directories hidden from search engines
+	- Names, email address, phone numbers
+	- Physical addresses
+	- Web technologies used
+
+```bash
+  host example.org
+```
+
+- domain.com/robots.txt 
