@@ -11,7 +11,7 @@
 ```
 
 - Web application fingerprinting
-- Pair with httrack
+- Pair with `httrack`
 
 ### Website Recon and Footprinting
 - Information to look for:
@@ -29,11 +29,11 @@
 - example.com/sitemap.xml - lists all directories for search engines to crawl
 - identify tech stack of the website
 	- Wappalyzer 
-	- builtwith' extension/add-on 
+	- builtwith extension/add-on 
 	- ```bash
 	  whatweb example.com
 	  ```
-- httrack - website copier
+- `httrack` - website copier
 
 ### Email harvesting
 - Gather names, emails, IPs, subdomains, URLS using theHarvester
@@ -45,5 +45,7 @@
 - https://haveibeenpwned.com - check if email or password was leaked in data breach
 
 ### Google Dorking
-- site:example.com inurl:admin 
-- 
+- `site:example.com inurl:admin` 
+- `site:*.ine.com` (subdomain enumeration)
+- `site:*.ine.com intitle:admin`
+- site:*.ine.com filetype:pdf
