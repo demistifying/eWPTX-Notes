@@ -23,7 +23,7 @@
 
 - ```bash
   host example.org
-```
+   ```
 
 - example.com/robots.txt - list of endpoints/directories disallowed for search engines
 - example.com/sitemap.xml - lists all directories for search engines to crawl
