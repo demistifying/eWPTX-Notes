@@ -51,4 +51,7 @@
 - `site:*.ine.com filetype:pdf`
 - `intitle:index of`
 - `cache:example.com` (Alternative: Wayback Machine)
-- `inurl:auth_user_file.`
+- `inurl:auth_user_file.txt`
+- `intitle:passwd.txt`
+- `inurl:wp-config.bak`
+- [Google hacking database](https://www.exploit-db.com/google-hacking-database) - Cheat sheet resource
