@@ -38,6 +38,6 @@
 ### Email harvesting
 - Gather names, emails, IPs, subdomains, URLS using theHarvester
 - ```bash
-  theHarvester -d INE -b duckduckgo
+  theHarvester -d example.com -b duckduckgo,baidu,bing,yahoo,hunter,brave,urlscan
   ```
   
