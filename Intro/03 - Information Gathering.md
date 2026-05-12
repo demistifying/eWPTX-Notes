@@ -63,3 +63,5 @@
 mkdir directory
 httrack example.com -O directory/
 ```
+
+### Crawling with BurpSuite
