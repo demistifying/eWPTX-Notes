@@ -56,5 +56,10 @@
 - `inurl:wp-config.bak`
 - [Google hacking database](https://www.exploit-db.com/google-hacking-database) - Cheat sheet resource
 
-### HTTrack
+### HTTrack - Copying websites for analysis
 - https://www.httrack.com
+
+```bash
+mkdir directory
+httrack example.com -O directory/
+```
