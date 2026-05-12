@@ -21,8 +21,15 @@
 	- Physical addresses
 	- Web technologies used
 
-```bash
+- ```bash
   host example.org
 ```
 
-- domain.com/robots.txt 
+- example.com/robots.txt
+- example.com/sitemap.xml
+- 'builtwith' extension/add-on
+- Wappalyzer
+- ```bash
+  whatweb example.com
+  ```
+- 
