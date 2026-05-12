@@ -28,7 +28,8 @@
 - example.com/robots.txt - list of endpoints/directories disallowed for search engines
 - example.com/sitemap.xml - lists all directories for search engines to crawl
 - identify tech stack of the website
-	- Wappalyzer - identify tech stack of the website
+	- Wappalyzer 
+	- builtwith' extension/add-on 
 	- ```bash
 	  whatweb example.com
 	  ```
