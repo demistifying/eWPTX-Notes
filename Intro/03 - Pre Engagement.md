@@ -43,3 +43,7 @@
 
 ### Leaked Password Databases 
 - https://haveibeenpwned.com - check if email or password was leaked in data breach
+
+### Google Dorking
+- site:example.com inurl:admin 
+- 
