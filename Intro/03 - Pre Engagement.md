@@ -7,6 +7,8 @@
 ```bash
   sudo apt-get install eyewitness
   
-  eyewitness w
+  eyewitness --web -f domains.txt -d folder
 ```
 
+- Web application fingerprinting
+- Pair with httrack
