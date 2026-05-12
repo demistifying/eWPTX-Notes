@@ -40,4 +40,6 @@
 - ```bash
   theHarvester -d example.com -b duckduckgo,baidu,bing,yahoo,hunter,brave,urlscan
   ```
-  
+
+### Leaked Password Databases 
+- https://haveibeenpwned.com - check if email or password was leaked in data breach
