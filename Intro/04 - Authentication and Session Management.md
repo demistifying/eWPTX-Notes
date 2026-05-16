@@ -7,4 +7,9 @@
 - Use Burp Intruder to Brute Force enumeration
 
 ## Test for weak password policy
-- 
+- WSTG-ATHN -07
+- Dictionary or Brute Force attack
+- Focus Areas
+	- Password complexity
+	- Account Lockouts
+	- Error messages
