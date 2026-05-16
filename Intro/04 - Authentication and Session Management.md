@@ -2,5 +2,9 @@
 ![[Pasted image 20260513234154.png]]
 
 ## Username Enumeration
-- Forgot Password very common
-- Use intruder to Brute Force enumeration
+- Find out existing users in the application through different error responses in authentication mechanisms
+- Commonly found on 'Forgot Password' pages
+- Use Burp Intruder to Brute Force enumeration
+
+## Test for weak password policy
+- 
