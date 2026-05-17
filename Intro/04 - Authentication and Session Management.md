@@ -15,4 +15,4 @@
 	- Error messages
 
 ## Test for weak lockout mechanisms
-### Brute-forcing mathe
+### Brute-forcing mathematical Captcha using Python
