@@ -13,3 +13,5 @@
 	- Password complexity
 	- Account Lockouts
 	- Error messages
+
+## Test for weak lockout mechanisms
