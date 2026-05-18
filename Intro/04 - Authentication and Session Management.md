@@ -57,3 +57,7 @@ with open('passwords.txt', 'r') as f:
 
 ### Account Lockout Bypass
 
+```dirb``` - directory buster
+```searchsploit``` - search for exploits
+
+
