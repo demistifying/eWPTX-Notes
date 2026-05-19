@@ -67,3 +67,4 @@ with open('passwords.txt', 'r') as f:
 ## Session Management Testing
 ![[Pasted image 20260519220720.png]]
 
+## Testing Session Management Schema (WSTG-SESS-01)
