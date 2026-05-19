@@ -64,3 +64,6 @@ with open('passwords.txt', 'r') as f:
 
 - Airline Booking Sample website - Added ``` Cookie: LoggedIn=yes  ``` to log into admin without password
 
+## Session Management Testing
+![[Pasted image 20260519220720.png]]
+
