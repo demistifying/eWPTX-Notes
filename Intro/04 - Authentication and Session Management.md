@@ -68,3 +68,8 @@ with open('passwords.txt', 'r') as f:
 ![[Pasted image 20260519220720.png]]
 
 ## Testing Session Management Schema (WSTG-SESS-01)
+![[Pasted image 20260519223139.png]]
+![[Pasted image 20260519223247.png]]
+
+![[Pasted image 20260519223326.png]]
+![[Pasted image 20260519223348.png]]
