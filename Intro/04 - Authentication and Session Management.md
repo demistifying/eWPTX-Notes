@@ -60,5 +60,9 @@ with open('passwords.txt', 'r') as f:
 >[!Important]
 >```dirb``` - directory buster
 ```searchsploit``` - search for exploits
+> Look in the source code for service versions and search for exploits
+
+ 
+
 
 
