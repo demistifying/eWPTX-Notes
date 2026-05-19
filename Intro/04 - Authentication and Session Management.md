@@ -62,3 +62,5 @@ with open('passwords.txt', 'r') as f:
 > Look in the source code for service versions and search for exploits
 ## Bypassing Authentication Schema (WSTG-ATHN-04)
 
+- Airline Booking Sample website - Added ``` Cookie: LoggedIn=yes  ``` to log into admin without password
+
