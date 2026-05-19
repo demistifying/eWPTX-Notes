@@ -6,8 +6,7 @@
 - Commonly found on 'Forgot Password' pages
 - Use Burp Intruder to Brute Force enumeration
 
-## Test for weak password policy
-- WSTG-ATHN -07
+## Test for weak password policy (WSTG-ATHN -07)
 - Dictionary or Brute Force attack
 - Focus Areas
 	- Password complexity
@@ -55,14 +54,11 @@ with open('passwords.txt', 'r') as f:
             break
 ```
 
-### Account Lockout Bypass
+## Account Lockout Bypass
 
 >[!Important]
 >```dirb``` - directory buster
 ```searchsploit``` - search for exploits
 > Look in the source code for service versions and search for exploits
-
- 
-
-
+## Bypassing Authentication Schema (WSTG-ATHN-04)
 
