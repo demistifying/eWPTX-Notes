@@ -73,3 +73,6 @@ with open('passwords.txt', 'r') as f:
 
 ![[Pasted image 20260519223326.png]]
 ![[Pasted image 20260519223348.png]]
+
+- Decode intercepted cookies and modify them. 
+
